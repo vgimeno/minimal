@@ -8,8 +8,9 @@ layout: default
 
 Gracias por acceder a mi web, 
 
-éste es mi nuevo proyecto personal, 
-actualmente estóy trabajando en ella, aprendiendo a usar GitHub Pages y por el camino voy probando cositas que leo, no dejes de volver a ver las novedades, pero por el momento pondremos el mítico...
+Éste es mi nuevo proyecto personal y actualmente estoy trabajando en él, aprendiendo a usar GitHub Pages y por el camino probando cositas que leo. 
+
+No dejes de volver para ver las novedades, pero por el momento pondremos el mítico...
 
 
 ```
